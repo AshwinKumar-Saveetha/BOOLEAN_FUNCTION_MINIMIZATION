@@ -65,6 +65,7 @@ endmodule
 
 
 **RTL:**
+
 ![image](https://github.com/AshwinKumar-Saveetha/BOOLEAN_FUNCTION_MINIMIZATION/assets/155129814/02963ae0-359f-4883-9cb6-f0d48d116a03)
 
 
